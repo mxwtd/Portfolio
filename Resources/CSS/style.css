@@ -325,9 +325,3 @@ h2 {
   .toggle:checked:before {
     left: 32px;
   }
-
-  footer {
-    font-size: 20px;
-    color: #363636;
-    text-align: right;
-  }
